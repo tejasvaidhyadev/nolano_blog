@@ -24,7 +24,6 @@
 {%- else -%}
   {%- assign post_url = post.url | relative_url -%}
 {%- endif -%}
-<center> 
 <div class="col-xl-12 my-1 wow animated fadeIn " data-wow-delay=".15s">
 
   <a href="{{ post_url }}" class="post card {{ card_style }}">
@@ -46,7 +45,6 @@
     </div>
     {%- if post.comments -%}
 <script>
-</center>
 <div id="disqus_thread"></div>
 /**
 *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.

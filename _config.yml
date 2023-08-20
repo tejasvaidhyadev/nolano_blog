@@ -1,4 +1,4 @@
-title               : Tejas Vaidhya
+title               : Nolano Blog
 description         : >-
                      "The world is full of magical things"
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
@@ -20,31 +20,14 @@ nav_exclude:                                            # The following path is 
 
 ### Author Info ###
 author:
-  name              : Tejas Vaidhya
-  image             : https://raw.githubusercontent.com/tejasvaidhyadev/tejasvaidhyadev.github.io/master/_images/tejas2.jpg
-# behance           : your_username
-# dribbble          : your_username
-  email             : iamtejasvaidhya@gmail.com
-  facebook          : tejas.vaidhya.52
-  github            : tejasvaidhyadev
-# gitlab            : your_username
-  instagram         : tejasvaidhya/
-# medium            : your_username
-# soundcloud        : your_username
-# spotify           : your_username
-# stackoverflow     : your_user_id
-# tumblr            : your_username.tumblr.com
-# twitch            : your_username
-# twitter           : your_username
-# vimeo             : your_username
-# youtube           : your_channel_namef
+  name              : Nolano Blog
 
 ### Disqus
 disqus: portfolio-bnhbmol6a5
 
 
 ### Posts ###
-permalink: /blog/:title
+permalink: /:title
 
 markdown: kramdown
 kramdown:
