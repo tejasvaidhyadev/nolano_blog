@@ -1,0 +1,71 @@
+- entity: MILA Quebec,
+  link: https://mila.quebec/
+  location: Montreal
+  role: <b>Research Assistant</b>
+  from: Sep 2022
+  to: present
+  #description:
+  #  - "Working on framwork for Statistical and Deeplearing based Language model in julia."
+  courses:
+  image:   https://raw.githubusercontent.com/tejasvaidhyadev/tejasvaidhyadev.github.io/master/_images/timeline/mila.png
+  tools: [NLP, Transformer, Language model, Causal Inference]
+
+- entity: Institute for Machine Learning,
+  link: http://www.mrinmaya.io
+  location: ETH Zurich
+  role: <b>Research Intern</b>
+  from: Mar 2021
+  to: Aug 2021
+  #description:
+  #  - "Working on framwork for Statistical and Deeplearing based Language model in julia."
+  courses:
+  image:   https://raw.githubusercontent.com/tejasvaidhyadev/tejasvaidhyadev.github.io/master/_images/timeline/ETH-Zurich.png
+  tools: [NLP, Transformer, Language model, Causal Inference]
+
+- entity: Uniworks Deisgns,
+  link: https://uniworksdesigns.com/
+  location: Hyderabad
+  role: <b>ML Intern</b>
+  from: Dec 2021
+  to: Mar 2021
+  #description:
+  #  - "Working on framwork for Statistical and Deeplearing based Language model in julia."
+  courses:
+  image:   https://raw.githubusercontent.com/tejasvaidhyadev/tejasvaidhyadev.github.io/master/_images/uniworks.png
+  tools: [GANs, Architecture, FloorPlan Generation]
+
+- entity: Google Summer of Code @julialang
+  link: https://summerofcode.withgoogle.com/projects/#5015442659213312
+  location: Remote
+  role: <b>Software Developer</b>
+  from: May 2020
+  to: Aug 2020
+  #description:
+  #  - "Working on framwork for Statistical and Deeplearing based Language model in julia."
+  courses:
+  image: https://raw.githubusercontent.com/tejasvaidhyadev/tejasvaidhyadev.github.io/master/_images/timeline/GSoC-logo.png
+  tools: [NLP, Transformer, Language model, julia]
+
+- entity: CERN
+  link: https://home.cern/
+  location: Hong kong
+  role: <b>Student Researcher</b>
+  from: Mar 2020
+  to: May 2020
+  #description: I am involved in the ongoing research on the track classification for identifying tau-leptons from Boson decay. I am working on developing deep learning based algorithms to efficiently classify between the background noise and tau-jets.
+  courses:
+  image: https://raw.githubusercontent.com/tejasvaidhyadev/tejasvaidhyadev.github.io/master/_images/timeline/CERN-logo.png    
+  tools: [DeepLearning, LHC, Tau-leptons Decay]
+
+- entity: Centre for Artificial Intelligence, 
+  link: http://www.ai.iitkgp.ac.in/
+  location: IIT Kharagpur,India
+  role: <b>Undergraduate Researcher</b>
+  from: Aug 2019
+  to:  March 2020
+  description: 
+  courses:
+  image: https://raw.githubusercontent.com/tejasvaidhyadev/tejasvaidhyadev.github.io/master/_images/timeline/Centreai.png 
+  tools: [Natural Language Processing, Machine Learning]
+
+
